@@ -1,0 +1,6 @@
+gymnasium
+box2d-py
+torch
+numpy
+imageio
+tqdm

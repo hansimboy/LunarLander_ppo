@@ -8,7 +8,7 @@ from src.model import ActorCritic
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Record video for a trained PPO model")
-    parser.add_argument("--model-path", type=str, default="models/best_model.pth", required=True)
+    parser.add_argument("--model-path", type=str, required=True)
     parser.add_argument("--env-name", type=str, default="LunarLanderContinuous-v3")
     parser.add_argument("--output", type=str, default="ppo_lunarlander.mp4")
     parser.add_argument("--episode-length", type=int, default=1000)

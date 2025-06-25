@@ -76,7 +76,7 @@ The default hyperparameters used for PPO training (as defined in `train.py`):
 | `--save-dir`          | Directory to save model checkpoints                    | `models`                         |
 | `--seed`              | Random seed for reproducibility (optional)             | `None`                           |
 
-You can mention in your README that users can override these when running `train.py`, for example:
+running `train.py`, for example:
 
 ```bash
 python src/train.py \

@@ -54,7 +54,8 @@ python src/train.py
 Recoding Video
 
 ```bash
-python src/record_video.py
+python src/record_video.py \
+  --model-path models/best_model.pth
 ```
 ## Hyperparameters
 The default hyperparameters used for PPO training (as defined in `train.py`):

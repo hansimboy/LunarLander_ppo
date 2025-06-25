@@ -4,7 +4,7 @@ This repository implements the Proximal Policy Optimization (PPO) algorithm and 
 Based on the original paper: Schulman et al., “Proximal Policy Optimization Algorithms” (2017) ([arXiv:1707.06347](https://arxiv.org/abs/1707.06347)).
 
 ---
-![Watch demo video](https://drive.google.com/file/d/19drV3H4KLHDfYFWDRuAQwQzzLP4WY0M0/view?usp=drive_link)
+[Watch demo video](https://drive.google.com/file/d/19drV3H4KLHDfYFWDRuAQwQzzLP4WY0M0/view?usp=drive_link)
 ---
 ## Table of Contents
 1. [Project Overview](#project-overview)  
